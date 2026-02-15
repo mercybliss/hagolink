@@ -99,7 +99,7 @@ export default function Footer() {
             <p className="text-sm text-gray-400 leading-relaxed">
               Elites is a participant in various affiliate advertising programs, including the Amazon Services LLC Associates Program, 
               Costco Wholesale affiliate program, and others. This means we may earn commissions from qualifying purchases made through 
-              links on this site at no additional cost to you. We only recommend products we've researched and believe will provide value 
+              links on this site at no additional cost to you. We only recommend products we&apos;ve researched and believe will provide value 
               to our readers. Our recommendations are based on independent research and testing, not influenced by affiliate relationships. 
               For more information, please see our full{" "}
               <a href="#" className="text-gold-500 hover:underline">Affiliate Disclosure</a>.
