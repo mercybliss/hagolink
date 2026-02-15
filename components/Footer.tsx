@@ -97,6 +97,7 @@ export default function Footer() {
           <div className="mb-6 p-6 bg-dark-light rounded-lg border border-dark-lighter">
             <h4 className="font-semibold mb-2 text-white">Affiliate Disclosure</h4>
             <p className="text-sm text-gray-400 leading-relaxed">
+              {/* eslint-disable-next-line react/no-unescaped-entities */}
               Elites is a participant in various affiliate advertising programs, including the Amazon Services LLC Associates Program, 
               Costco Wholesale affiliate program, and others. This means we may earn commissions from qualifying purchases made through 
               links on this site at no additional cost to you. We only recommend products we&apos;ve researched and believe will provide value 

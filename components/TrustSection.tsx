@@ -36,6 +36,7 @@ export default function TrustSection() {
             Research-Driven Recommendations
           </h2>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
+            {/* eslint-disable-next-line react/no-unescaped-entities */}
             We don&apos;t do hype. Every product on this site has been carefully selected 
             based on extensive research, user reviews, and real-world testing. 
             Our goal is simple: help you make smarter purchasing decisions.
