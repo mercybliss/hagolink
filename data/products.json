@@ -1,0 +1,146 @@
+{
+  "featured": [
+    {
+      "id": 1,
+      "name": "Premium Ergonomic Office Chair",
+      "description": "Designed for long work sessions. Lumbar support, adjustable height, and premium materials.",
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=600&fit=crop",
+      "rating": 4.8,
+      "retailer": "Amazon",
+      "tag": "Editor's Pick",
+      "category": "Productivity Tools"
+    },
+    {
+      "id": 2,
+      "name": "Smart Air Purifier Pro",
+      "description": "HEPA filtration system with app control. Removes 99.97% of airborne particles.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+      "rating": 4.9,
+      "retailer": "Costco",
+      "tag": "Best Seller",
+      "category": "Home Upgrades"
+    },
+    {
+      "id": 3,
+      "name": "Premium Standing Desk Converter",
+      "description": "Transform any desk into a standing workstation. Smooth height adjustment, spacious surface.",
+      "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&h=600&fit=crop",
+      "rating": 4.7,
+      "retailer": "Amazon",
+      "tag": "Smart Buy",
+      "category": "Productivity Tools"
+    },
+    {
+      "id": 4,
+      "name": "Noise-Cancelling Wireless Headphones",
+      "description": "Industry-leading noise cancellation. 30-hour battery life. Premium sound quality.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop",
+      "rating": 4.9,
+      "retailer": "Amazon",
+      "tag": "Best Seller",
+      "category": "Smart Tech"
+    },
+    {
+      "id": 5,
+      "name": "Smart Home Hub Starter Kit",
+      "description": "Control lights, thermostat, and security from one app. Easy setup, expandable system.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+      "rating": 4.6,
+      "retailer": "Costco",
+      "tag": "Smart Buy",
+      "category": "Smart Tech"
+    },
+    {
+      "id": 6,
+      "name": "Premium Memory Foam Mattress",
+      "description": "Cooling gel-infused memory foam. Pressure relief and temperature regulation.",
+      "image": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?w=800&h=600&fit=crop",
+      "rating": 4.8,
+      "retailer": "Amazon",
+      "tag": "Editor's Pick",
+      "category": "Wellness Essentials"
+    }
+  ],
+  "categories": {
+    "Home Upgrades": [
+      {
+        "id": 7,
+        "name": "Smart Thermostat Pro",
+        "description": "Learn your schedule, save energy. Voice control compatible.",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "rating": 4.7,
+        "retailer": "Amazon",
+        "tag": "Smart Buy"
+      },
+      {
+        "id": 8,
+        "name": "Premium LED Light Strips",
+        "description": "Full spectrum colors, app control, voice integration.",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "rating": 4.5,
+        "retailer": "Amazon",
+        "tag": "Smart Buy"
+      }
+    ],
+    "Productivity Tools": [
+      {
+        "id": 9,
+        "name": "Mechanical Keyboard Pro",
+        "description": "Tactile switches, RGB backlighting, premium build quality.",
+        "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=800&h=600&fit=crop",
+        "rating": 4.8,
+        "retailer": "Amazon",
+        "tag": "Editor's Pick"
+      },
+      {
+        "id": 10,
+        "name": "Ultra-Wide Monitor 34\"",
+        "description": "4K resolution, curved display, perfect for multitasking.",
+        "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&h=600&fit=crop",
+        "rating": 4.9,
+        "retailer": "Costco",
+        "tag": "Best Seller"
+      }
+    ],
+    "Wellness Essentials": [
+      {
+        "id": 11,
+        "name": "Smart Fitness Tracker",
+        "description": "Heart rate, sleep tracking, 7-day battery life.",
+        "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&h=600&fit=crop",
+        "rating": 4.6,
+        "retailer": "Amazon",
+        "tag": "Smart Buy"
+      },
+      {
+        "id": 12,
+        "name": "Premium Yoga Mat",
+        "description": "Non-slip surface, extra thick, eco-friendly materials.",
+        "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=800&h=600&fit=crop",
+        "rating": 4.7,
+        "retailer": "Amazon",
+        "tag": "Editor's Pick"
+      }
+    ],
+    "Smart Tech": [
+      {
+        "id": 13,
+        "name": "Wireless Charging Pad",
+        "description": "Fast charging, multiple device support, sleek design.",
+        "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=600&fit=crop",
+        "rating": 4.5,
+        "retailer": "Amazon",
+        "tag": "Smart Buy"
+      },
+      {
+        "id": 14,
+        "name": "Smart Security Camera",
+        "description": "4K video, night vision, cloud storage included.",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop",
+        "rating": 4.8,
+        "retailer": "Costco",
+        "tag": "Best Seller"
+      }
+    ]
+  }
+}
